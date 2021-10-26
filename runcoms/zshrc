@@ -32,4 +32,3 @@ alias note="cd /Users/lmolteni/Library/Mobile\ Documents/9CR7T2DMDG\~com\~ngoclu
 [ -s "/Users/lmolteni/.jabba/jabba.sh" ] && source "/Users/lmolteni/.jabba/jabba.sh"
 export PATH="/Users/lmolteni/maven/apache-maven-3.8.3/bin:/usr/local/opt/ant@1.9/bin:$PATH"
 
-export BACKPORTS_TOKEN=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
